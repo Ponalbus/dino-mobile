@@ -1,0 +1,31 @@
+.logo-box {
+	background: #0AA245;
+	height: 63px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.logo-menu {
+	display: flex;
+	align-items: center;
+
+}
+.logo{
+	margin-left: 10px;
+}
+.logo-image {
+	position: absolute;
+	z-index: 1;
+	margin-top: 4px;
+    margin-left: 3px;
+}
+.Ellipse {
+	position: relative;
+}
+.box-message{
+    display: flex;
+    width: 164px;
+    justify-content: space-between;
+    align-items: center;
+
+}

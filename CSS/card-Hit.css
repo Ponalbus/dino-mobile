@@ -1,0 +1,114 @@
+.text_Card_Heading-Hit{
+    width: 248px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+     margin-bottom: 22px;
+    margin-top: 40px;
+}
+.headingCard-Hit {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */ 
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* #202329 */
+  color: #202329;
+ 
+}
+
+
+.card-box-Hit {
+  display: flex;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+
+
+.card-Hit{ 
+  border: 1px solid rgba(221, 225, 230, 1);
+  width: 140px; 
+  height: 338px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.new {
+  width: 74px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #006FE6;
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height, or 127% */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+.hit {
+  float: left;
+  width: 43px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background:  #FF7D05;
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height, or 127% */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+
+.more_newProduct-mobile {
+  display: flex;
+  justify-content: center;
+  height: 48px;
+  width: 290px;
+  margin: auto;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  /* #DDE1E6 */
+  border: 2px solid #DDE1E6;
+  box-sizing: border-box;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* #70798E */
+  color: #70798E;
+}

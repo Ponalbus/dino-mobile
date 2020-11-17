@@ -1,0 +1,36 @@
+.icons {
+  height: 113px;
+  display: flex;
+  margin: auto;
+  justify-content: space-evenly;
+  align-items: baseline;
+  margin-bottom: 35px;
+
+
+}
+
+.icons_Box-1 {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icons1 {
+  width: 50px;
+  height: 50px;
+}
+
+.icons_Text-1 {
+  font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    /* or 133% */
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #202329 */
+    color: #202329;
+
+}

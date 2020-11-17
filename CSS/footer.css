@@ -1,0 +1,378 @@
+.footer-mobile { 
+  height: auto;
+  background: #F4F6F8;
+  margin: auto;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} 
+.footer a {
+  text-decoration: none;
+}
+ .footer a:hover {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration-line: underline;
+  text-decoration-color: #006FE6;
+  color: blue; 
+  transition: 0.3s;
+}
+
+.footer_logo_Box {
+
+}
+
+.line-footer {
+  height: 1px;
+  width: 290px;
+  background-color: #DAE0E6;
+
+
+}
+
+.footer_logo {
+
+}
+
+.name_shop {
+  margin: 24px 24px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  /* or 167% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+.footer_adress_Box {
+
+}
+
+
+.footer_adress {
+ font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.footer_time_work {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+.show-room {
+  margin: 6px 17px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height, or 125% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #F10B34 */
+  color: #F10B34;
+}
+
+.footer_telefon {
+
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.icons_social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px 37px;
+}
+
+
+.footer_Boy_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 58px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+
+}
+
+.boys_label {
+  display: none;
+}
+
+
+.footer_girls-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 58px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.girls_label {
+  display: none;
+}
+
+.boys_product {
+
+ font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+.boys_product a {
+  color: #202329;
+}
+
+a.go-home {
+  text-decoration: none;
+}
+
+
+.brend_Product {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.label_box {
+  
+}
+
+.label_Product {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+.footer_girls {
+
+}
+.footer_Girls_box {
+ 
+}
+
+.girls_product {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+ 
+ .brend_Product_box2 {
+    
+ }
+.go-home {  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 58px; 
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    color: #202329;
+  }
+.spring-summer-Product { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 58px;  
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #202329 */
+    color: #202329;
+}
+.automn-winter-Product {   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 58px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #202329 */
+    color: #202329;
+}
+
+
+
+.brend-box{  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 58px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #202329 */
+    color: #202329;
+}
+.help {
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+
+
+}
+
+.help_Box1 {
+}
+
+.help_Box2 {
+  
+}
+
+.help_text {
+  display: none;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.go_help {
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+
+
+
+
+
+
+

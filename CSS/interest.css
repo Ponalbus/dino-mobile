@@ -1,0 +1,137 @@
+.interest {
+  margin: auto;
+  height: 676px;
+  background: url("../image/Vector.svg") #0AA245;
+  margin-bottom: 40px;
+}
+
+.iterest_Text {
+  padding-top: 40px;
+  padding-bottom: 22px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+
+.interest-Box {
+  height: 110px;
+  width: 290px;
+  background: #FFFFFF;
+  /* #DDE1E6 */
+  border: 1px solid #DDE1E6;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+  }
+
+
+
+.interest-Image_Box1 {
+  background: url("../image/image 34.svg") no-repeat; 
+  background-size: 90px 100px;
+  width: 90px;
+  height: 95px;
+}
+.interest-Image_Box2 {
+  background: url("../image/termo.svg") no-repeat; 
+  background-size: 90px 100px;
+  width: 90px;
+  height: 95px;
+}
+.interest-Image_Box3 {
+  background: url("../image/image 36shoes.svg") no-repeat; 
+  background-size: 90px 100px;
+  width: 90px;
+  height: 95px;
+}
+
+
+.interest-line2 {
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+  height: 100px;
+  justify-content: space-evenly;
+}
+
+.interest-Date {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    /* or 140% */
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #70798E */
+    color: #70798E;
+  }
+.interest-Box_Headnig {
+ font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+.read_more {
+ font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color: #006FE6;
+}
+
+.more-Product-Interest{
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+    align-items: end;
+    width: 285px;
+    justify-content: space-between;
+}
+
+.text_go_Blog a{ 
+   font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+ }
+ .mask_Right_go_Blog {
+  
+  
+ 
+ }

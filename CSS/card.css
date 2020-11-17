@@ -1,0 +1,544 @@
+.text_Card_Heading {
+    width: 248px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.headingCard {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */ 
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* #202329 */
+color: #202329;
+}
+.card-head {
+  height: 88px;
+}
+.carusel-Box-mobile {
+
+    width: 295px !important;
+    margin: auto;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+  }
+
+
+
+
+
+
+.card{ 
+  margin-left: 7px;
+  border: 1px solid rgba(221, 225, 230, 1);
+  width: 140px !important; 
+  height: 338px !important;
+  box-sizing: border-box;
+  border-radius: 10px;
+ 
+}
+.card:hover {
+  cursor: pointer;
+   box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26), 0px 2px 4px rgba(0, 7, 123, 0.04) !important;
+}
+
+.card-body {
+  margin-left: 10px;
+}
+
+.sale {
+  padding-left: 6px; 
+  width: 33px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height, or 127% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+.sale-float {
+  float: left;
+  padding-left: 6px; 
+  width: 33px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height, or 127% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+
+.newProduct {
+  padding-left: 13px; 
+  width: 82px; 
+  height: 24px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #0071BC; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 13px;
+  /* identical to box height, or 93% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+.HitProduct {
+  padding-left: 14px; 
+  width: 45px; 
+  height: 24px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #FF7D05;
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 13px;
+  /* identical to box height, or 93% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+.sale20 {
+  padding-left: 6px; 
+  width: 35px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 13px;
+  /* identical to box height, or 93% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+
+.image_Card-box1 {
+  margin-left: 17px;
+  width: 100px;
+  height: 76px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 19.svg") no-repeat;
+  background-position: center;
+  background-size: 100px 100px;
+}
+
+.image_Card-box2 {
+  margin-left: 17px;
+  width: 100px;
+  height: 100px;
+  background: url("../image/image 24.svg") no-repeat;
+  background-position: 0px 4px;
+  background-size: 100px 100px;
+}
+
+.image_Card-box3 {
+  width: 262px;
+  height: 224px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 25.svg") no-repeat;
+   background-position: center;
+}
+.card-heading-text {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  margin: 15px 0 0 0;
+}
+.card-heading-text-type2{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  margin: 22px 0 0 0;
+}
+.card-text1 {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  /* or 137% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+.card-text2 {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  /* or 137% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  margin-bottom: 51px;
+}
+.card-text4{
+  margin: 0;
+  height: 60px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height, or 125% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  
+}
+.price {
+   display: flex;
+   align-items: baseline;
+   margin-top: 9px;
+   margin-bottom: 9px;;
+    
+}
+
+.new_Price {
+  height: 20px;
+  width: 59px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0AA245 */
+  color: #0AA245;
+}
+.old_price {
+  display: flex;
+  height: 11px;
+  width: 51px;
+  left: 86px;
+  
+}
+.old_Cash {
+    position: absolute;
+    margin-left: 4px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height, or 125% */
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* #70798E */
+    color: #70798E;
+
+}
+ .size {
+  display: flex;
+  flex-wrap: wrap;
+ }
+
+ .text_Size {
+    float: left;
+    margin-right: 17px;
+    font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+ }
+
+ button.size_Choose {
+  width: 25px; 
+  margin-right: 3px;
+  margin-bottom: 4px;
+  height: 14px;
+  background: #F4F7FB;
+/* #DDE1E6 */
+  border: 1px solid #DDE1E6;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 9px;
+  line-height: 14px;
+  /* identical to box height, or 156% */
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* #969BA8 */
+color: #969BA8;
+ }
+button.size_Choose:hover {
+  cursor: pointer;
+
+}
+
+.product_Code{
+ display: flex;
+ margin-top: 11px;
+ margin-bottom: 16px;
+}
+
+.text_Code {
+  margin-right: 3px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.number_Code {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+
+.button_Box {
+     display: flex;
+}
+
+
+.by_Product {
+  display: flex;
+ height: 32px;
+ width: 83px;
+ border-radius: 10px;
+ background: #0AA245;
+ border: none;
+ margin-right: 5px;
+ align-items: center;
+ justify-content: center;
+
+
+}
+.by_Product:hover {
+  cursor: pointer;
+}
+.by_Basket_Image {
+
+}
+
+.by_Basket_Text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.love_Product {
+  background: #F4F7FB;
+  height: 32px;
+  width: 32px;
+  border-radius: 10px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.love_Product :hover {
+  cursor: pointer;
+}
+.whithLove {
+  display: none
+}
+#whithout_Love8{
+  margin-top: 3px;
+}
+.love_Product :hover > .whithLove{
+  display: block;
+}
+
+.carusel {
+  margin-bottom: 20px;
+  padding-top: 32px;
+  width: 66px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: space-evenly;
+}
+
+.activ_Carusel {
+  width: 12px;
+  height: 12px;
+  background: #0AA245;
+  /* #0AA245 */
+  border: 1px solid #0AA245;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.no_acntiv_Carusel{
+  width: 8px;
+  height: 8px;
+  border: 2px solid #0AA245;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.more_Product {
+   width: 290px;
+    display: flex;
+    margin: 30px 10px 30px 17px;
+    justify-content: space-between;
+  }
+
+.text_more_product a {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color: #006FE6;
+}
+
+.mask_Right {
+  width: 24px;
+  height: 24px;
+ color: rgba(0, 111, 229, 1);
+
+}
+
+.more_newProduct {
+  display: flex;
+  justify-content: center;
+  height: 48px;
+  width: 1120px;
+  margin: auto;
+  margin-bottom: 60px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  /* #DDE1E6 */
+  border: 2px solid #DDE1E6;
+  box-sizing: border-box;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,277 @@
+.text_Card_Heading_Popular-mobile {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.popular-Card-mobile{
+
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+    
+}
+
+
+.card-mobile{
+  margin: auto;
+  margin-bottom: 11px;
+  display: flex;
+  border: 1px solid rgba(221, 225, 230, 1);
+  width: 290px;
+  height: 169px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.card-body_type-mobile{
+  margin-left: 20px;
+}
+.card-body_box-mobile {
+  margin-left: 5px;
+}
+.sale-card-mobile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35px; 
+  height: 14px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  color: #FFFFFF;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+}  
+
+.image_Card-box_type-mobile{
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 100px;
+  height: 120px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 19.svg") no-repeat;
+  background-size: 119px 120px;
+  background-position: -5px;
+
+}
+.image_Card-box-Reima-mobile {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 100px;
+  height: 120px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 24.svg") no-repeat;
+  background-size: 119px 120px;
+  background-position: -5px;
+}
+.image_Card-box-Ruffy-mobile {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 100px;
+  height: 120px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 25.svg") no-repeat;
+  background-size: 119px 120px;
+  background-position: -5px;
+}
+.card-heading-text-mobile {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  margin: 10px 0 3px 0;
+  /* #202329 */
+  color: #202329;
+}
+
+.card-text-mobile {
+  margin: 0 0 3px 0;
+  height: 30px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height, or 125% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+.card-text2_type-mobile {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  margin-bottom: 38px;
+}
+
+.price-mobile {
+   display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 11px;
+    width: 100px;
+ }
+
+
+.new_Price-mobile {
+
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  color: #0AA245;
+}
+.old_Cash-mobile {
+  display: flex;
+  justify-content: space-around;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height, or 125% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  background: url("../image/Vector 1.svg") no-repeat;
+  overflow: hidden;
+  /* #70798E */
+  color: #70798E;
+}
+
+  .size_Variables-mobile {
+    display: flex;
+    width: 145px;
+    justify-content: space-between; 
+    margin-bottom: 16px;
+  }
+
+ button.size_Choose-mobile {
+  width: 25px; 
+  height: 14px
+  background: #F4F7FB;
+/* #DDE1E6 */
+  border: 1px solid #DDE1E6;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 9px;
+  line-height: 14px;
+  /* identical to box height, or 156% */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #969BA8 */
+  color: #969BA8;
+ }
+
+.product_Code_type-mobile{
+  margin-left: 10px;
+  display: flex;
+}
+
+.text-Code-type-mobile {
+  margin-right: 6px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.number-Code-type-mobile {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+
+.button_Box-mobile {
+     display: flex;
+}
+
+
+.by_Product_type-mobile {
+
+  display: flex;
+ height: 32px;
+ width: 120px;
+ border-radius: 10px;
+ background: #0AA245;
+ border: none;
+ margin-right: 10px;
+ align-items: center;
+ justify-content: center;
+
+
+}
+.by_Produc-mobile :hover {
+  cursor: pointer;
+}
+.by_Basket_Image {
+
+}
+
+.by_Basket_Text-mobile {
+  margin-left: 15px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.love_Product-mobile {
+  height: 32px;
+  width: 32px;
+  border-radius: 10px;
+  border: none;
+}
