@@ -1,0 +1,18 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M43.19 14.5L39.72 16.5" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M43.19 35.5L39.72 33.5" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 46V42" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.81006 35.5L10.2801 33.5" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.81006 14.5L10.2801 16.5" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 4V8" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.5 6.81006L34.5 8.55006" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M46 25H44" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.5 43.1901L34.5 41.4501" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5 43.1901L15.5 41.4501" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 25H6" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5 6.81006L15.5 8.55006" stroke="#0AA245" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38 25C38 26.2558 35.9152 27.1768 35.5348 28.307C35.14 29.4792 36.2522 31.4048 35.5156 32.3815C34.7741 33.3676 32.5256 32.935 31.5048 33.656C30.4937 34.3676 30.2289 36.5677 29.0156 36.9444C27.8456 37.3165 26.3 35.6979 25 35.6979C23.7 35.6979 22.1544 37.3165 20.9796 36.9444C19.7663 36.563 19.5015 34.363 18.4904 33.6513C17.4696 32.9351 15.2259 33.363 14.4796 32.3769C13.743 31.4001 14.8552 29.4745 14.4604 28.3024C14.0848 27.1768 12 26.2558 12 25C12 23.7442 14.0848 22.8232 14.4652 21.693C14.86 20.5208 13.7478 18.5952 14.4844 17.6185C15.2259 16.6324 17.4744 17.065 18.4952 16.344C19.5063 15.6324 19.7711 13.4323 20.9844 13.0556C22.1544 12.6881 23.7 14.3021 25 14.3021C26.3 14.3021 27.8456 12.6835 29.0204 13.0556C30.2337 13.437 30.4985 15.637 31.5096 16.3487C32.5304 17.065 34.7741 16.637 35.5204 17.6231C36.257 18.5999 35.1448 20.5255 35.5396 21.6976C35.9152 22.8279 38 23.7442 38 25Z" stroke="#0AA245" stroke-width="2"/>
+<path d="M29 21L21 29" stroke="#0AA245" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="21.5" cy="21.5" r="1.5" stroke="#0AA245" stroke-width="2"/>
+<circle cx="28.5" cy="28.5" r="1.5" stroke="#0AA245" stroke-width="2"/>
+</svg>
