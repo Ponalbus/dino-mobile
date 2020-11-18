@@ -300,7 +300,7 @@ color: #202329;
     line-height: 15px;
     /* identical to box height, or 125% */
     font-feature-settings: 'pnum' on, 'lnum' on;
-
+    background: url("../image/Vector 1.svg") no-repeat;
     /* #70798E */
     color: #70798E;
 
