@@ -40,7 +40,7 @@ button.more_newProduct-mobile:hover {
 	transition-duration: 0.3s;
 }
 
-.footer_Boy_box:hover {
+.label_Product:hover {
 	text-decoration: underline; 
  	cursor: pointer;
    color: #006FE6;
